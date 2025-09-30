@@ -1,7 +1,5 @@
 import { Button } from "@/components/ui/button";
 import Link from "next/link";
-import SignInForm from "./(auth)/sign-in/page";
-import SignUp from "./(auth)/sign-up/page";
 
 export default function Home() {
   return (
